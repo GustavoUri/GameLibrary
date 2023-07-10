@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GameLibrary.API</name>
+    </assembly>
+    <members>
+        <member name="M:GameLibrary.Controllers.GameLibraryController.AddGame(GameLibrary.DTO.CreateGameDTO,System.Threading.CancellationToken)">
+             <summary>
+             Creates a new game
+             </summary>
+             <param name="gameDTO">Body for the game creation</param>
+             <returns>A newly created game</returns>
+             <remarks>
+             Sample request:
+            
+                 POST /AddGame
+                 {
+                    "name": "Fallout 4",
+                    "studio": "Bethesda",
+                     "genres": ["Action", "Crafting"]
+                 }
+            
+             </remarks>
+             <response code="201">Returns the newly created game</response>
+             <response code="400">If json is not full, or name of the game is already taken</response>
+        </member>
+        <member name="M:GameLibrary.Controllers.GameLibraryController.UpdateGame(System.Guid,GameLibrary.DTO.UpdateGameDTO,System.Threading.CancellationToken)">
+             <summary>
+             Updates a game
+             </summary>
+             <param name="gameId">"Id of the game"</param>
+             <param name="gameDTO">Body for the game update</param>
+             <returns>A newly created game</returns>
+             <remarks>
+             Sample request:
+            
+                 PUT /UpdateGame
+                 parameter - gameId=374b85ae-35f9-49ea-9ac3-3da7e7a3b04f
+                 {
+                    "name": "Fallout 4",
+                    "studio": "Bethesda",
+                     "genres": ["Action", "Crafting"]
+                 }
+            
+             </remarks>
+             <response code="200">Returns the updated game</response>
+             <response code="400">If json is not full, or name of the game is already taken</response>
+        </member>
+        <member name="M:GameLibrary.Controllers.GameLibraryController.DeleteGame(System.Guid,System.Threading.CancellationToken)">
+             <summary>
+             Deletes a game
+             </summary>
+             <param name="gameId">Id of the game</param>
+             <returns>A deleted game</returns>
+             <remarks>
+             Sample request:
+            
+                 DELETE /DeleteGame
+                 parameter - gameId : "374b85ae-35f9-49ea-9ac3-3da7e7a3b04f"
+                 
+            
+             </remarks>
+             <response code="200">Returns the deleted game</response>
+             <response code="400">If json is not full, or there is no game with this id</response>
+        </member>
+        <member name="M:GameLibrary.Controllers.GameLibraryController.GetGames(GameLibrary.DTO.GameFilterDTO,System.Threading.CancellationToken)">
+             <summary>
+             Returns games with or without filter
+             </summary>
+             <param name="filterDto">Filter for games</param>
+             <returns>A Games with or without filter</returns>
+             <remarks>
+             
+             Sample request:
+            
+                 GET /GetGames
+                 parameters
+                 gameGenres=Fighting
+                 gameGenres=Shooter
+                 
+                 if filter is null controller returns all games
+             </remarks>
+             <response code="200">Returns games</response>
+             <response code="400">If json is not full</response>
+        </member>
+    </members>
+</doc>

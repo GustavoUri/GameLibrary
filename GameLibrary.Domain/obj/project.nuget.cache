@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "PFqYBqKVmZcWYQuDqYCV1DAvH7cjH1KY5IrlqFgWtxFy39ofDO/vU1e0XWbGCH9xbPWev7mEorbipremUW2rFg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\amine\\RiderProjects\\GameLibrary\\GameLibrary.Domain\\GameLibrary.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\amine\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0-preview.5.23280.8\\microsoft.extensions.configuration.abstractions.8.0.0-preview.5.23280.8.nupkg.sha512",
+    "C:\\Users\\amine\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0-preview.5.23280.8\\microsoft.extensions.dependencyinjection.abstractions.8.0.0-preview.5.23280.8.nupkg.sha512",
+    "C:\\Users\\amine\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0-preview.5.23280.8\\microsoft.extensions.primitives.8.0.0-preview.5.23280.8.nupkg.sha512"
+  ],
+  "logs": []
+}

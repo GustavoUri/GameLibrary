@@ -1,0 +1,17 @@
+C:\Users\amine\RiderProjects\GameLibrary\GameLibrary.Infrastructure\bin\Debug\net7.0\GameLibrary.Infrastructure.deps.json
+C:\Users\amine\RiderProjects\GameLibrary\GameLibrary.Infrastructure\bin\Debug\net7.0\GameLibrary.Infrastructure.runtimeconfig.json
+C:\Users\amine\RiderProjects\GameLibrary\GameLibrary.Infrastructure\bin\Debug\net7.0\GameLibrary.Infrastructure.dll
+C:\Users\amine\RiderProjects\GameLibrary\GameLibrary.Infrastructure\bin\Debug\net7.0\GameLibrary.Infrastructure.pdb
+C:\Users\amine\RiderProjects\GameLibrary\GameLibrary.Infrastructure\bin\Debug\net7.0\GameLibrary.Domain.dll
+C:\Users\amine\RiderProjects\GameLibrary\GameLibrary.Infrastructure\bin\Debug\net7.0\GameLibrary.Domain.pdb
+C:\Users\amine\RiderProjects\GameLibrary\GameLibrary.Infrastructure\obj\Debug\net7.0\GameLibrary.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\amine\RiderProjects\GameLibrary\GameLibrary.Infrastructure\obj\Debug\net7.0\GameLibrary.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amine\RiderProjects\GameLibrary\GameLibrary.Infrastructure\obj\Debug\net7.0\GameLibrary.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\amine\RiderProjects\GameLibrary\GameLibrary.Infrastructure\obj\Debug\net7.0\GameLibrary.Infrastructure.AssemblyInfo.cs
+C:\Users\amine\RiderProjects\GameLibrary\GameLibrary.Infrastructure\obj\Debug\net7.0\GameLibrary.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\amine\RiderProjects\GameLibrary\GameLibrary.Infrastructure\obj\Debug\net7.0\GameLibrary.Infrastructure.csproj.CopyComplete
+C:\Users\amine\RiderProjects\GameLibrary\GameLibrary.Infrastructure\obj\Debug\net7.0\GameLibrary.Infrastructure.dll
+C:\Users\amine\RiderProjects\GameLibrary\GameLibrary.Infrastructure\obj\Debug\net7.0\refint\GameLibrary.Infrastructure.dll
+C:\Users\amine\RiderProjects\GameLibrary\GameLibrary.Infrastructure\obj\Debug\net7.0\GameLibrary.Infrastructure.pdb
+C:\Users\amine\RiderProjects\GameLibrary\GameLibrary.Infrastructure\obj\Debug\net7.0\GameLibrary.Infrastructure.genruntimeconfig.cache
+C:\Users\amine\RiderProjects\GameLibrary\GameLibrary.Infrastructure\obj\Debug\net7.0\ref\GameLibrary.Infrastructure.dll

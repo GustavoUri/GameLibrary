@@ -1,0 +1,12 @@
+C:\Users\amine\RiderProjects\GameLibrary\GameLibrary.Domain\bin\Debug\net7.0\GameLibrary.Domain.deps.json
+C:\Users\amine\RiderProjects\GameLibrary\GameLibrary.Domain\bin\Debug\net7.0\GameLibrary.Domain.dll
+C:\Users\amine\RiderProjects\GameLibrary\GameLibrary.Domain\bin\Debug\net7.0\GameLibrary.Domain.pdb
+C:\Users\amine\RiderProjects\GameLibrary\GameLibrary.Domain\obj\Debug\net7.0\GameLibrary.Domain.csproj.AssemblyReference.cache
+C:\Users\amine\RiderProjects\GameLibrary\GameLibrary.Domain\obj\Debug\net7.0\GameLibrary.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amine\RiderProjects\GameLibrary\GameLibrary.Domain\obj\Debug\net7.0\GameLibrary.Domain.AssemblyInfoInputs.cache
+C:\Users\amine\RiderProjects\GameLibrary\GameLibrary.Domain\obj\Debug\net7.0\GameLibrary.Domain.AssemblyInfo.cs
+C:\Users\amine\RiderProjects\GameLibrary\GameLibrary.Domain\obj\Debug\net7.0\GameLibrary.Domain.csproj.CoreCompileInputs.cache
+C:\Users\amine\RiderProjects\GameLibrary\GameLibrary.Domain\obj\Debug\net7.0\GameLibrary.Domain.dll
+C:\Users\amine\RiderProjects\GameLibrary\GameLibrary.Domain\obj\Debug\net7.0\refint\GameLibrary.Domain.dll
+C:\Users\amine\RiderProjects\GameLibrary\GameLibrary.Domain\obj\Debug\net7.0\GameLibrary.Domain.pdb
+C:\Users\amine\RiderProjects\GameLibrary\GameLibrary.Domain\obj\Debug\net7.0\ref\GameLibrary.Domain.dll

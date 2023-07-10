@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameLibrary.API", "GameLibrary.API\GameLibrary.API.csproj", "{3540A59C-418F-4AD1-9527-88180341D627}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameLibrary.Domain", "GameLibrary.Domain\GameLibrary.Domain.csproj", "{73D957F9-9F58-41D7-98B2-B7B52B32A5E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameLibrary.Infrastructure", "GameLibrary.Infrastructure\GameLibrary.Infrastructure.csproj", "{47DE175D-83F3-4DD1-95B7-318E4719FECC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3540A59C-418F-4AD1-9527-88180341D627}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3540A59C-418F-4AD1-9527-88180341D627}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3540A59C-418F-4AD1-9527-88180341D627}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3540A59C-418F-4AD1-9527-88180341D627}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73D957F9-9F58-41D7-98B2-B7B52B32A5E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73D957F9-9F58-41D7-98B2-B7B52B32A5E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73D957F9-9F58-41D7-98B2-B7B52B32A5E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73D957F9-9F58-41D7-98B2-B7B52B32A5E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47DE175D-83F3-4DD1-95B7-318E4719FECC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47DE175D-83F3-4DD1-95B7-318E4719FECC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47DE175D-83F3-4DD1-95B7-318E4719FECC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47DE175D-83F3-4DD1-95B7-318E4719FECC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
